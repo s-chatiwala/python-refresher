@@ -29,8 +29,8 @@ def sqrt(a):
 def power(a, b):
     return np.power(a, b)
 
-# def log(a):
-#     return np.log(a)
+def log(a):
+    return np.log(a)
 
 def exp(a):
     return np.exp(a)
